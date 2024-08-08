@@ -33,7 +33,7 @@ pip install pandas numpy matplotlib scikit-learn
 
 ### Add New Transaction
 
-[Trans](media/Entertransaction.png)
+![Trans](media/Entertransaction.png)
 
 ### View Transactions and Summary within a Range of Dates
 
