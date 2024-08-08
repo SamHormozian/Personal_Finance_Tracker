@@ -29,7 +29,7 @@ pip install pandas numpy matplotlib scikit-learn
 
 ### Start Application
 
-[start](media/Startingapp.png)
+![start](media/Startingapp.png)
 
 ### Add New Transaction
 
