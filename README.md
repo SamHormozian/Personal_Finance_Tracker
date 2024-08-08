@@ -29,24 +29,24 @@ pip install pandas numpy matplotlib scikit-learn
 
 ### Start Application
 
-[start](media\Startingapp.png)
+[start](media/Startingapp.png)
 
 ### Add New Transaction
 
-[Trans](media\Entertransaction.png)
+[Trans](media/Entertransaction.png)
 
 ### View Transactions and Summary within a Range of Dates
 
-[range](media\seerange.png)
+[range](media/seerange.png)
 
-[plot](media\Figure_1.png)
+[plot](media/Figure_1.png)
 
 ### Predict future expenses
 
-[ML](media\predict.png)
+[ML](media/predict.png)
 
-[plot2](media\Figure2.png)
+[plot2](media/Figure2.png)
 
 ### Exit Application
 
-[exit](media\exit.png)
+[exit](media/exit.png)
